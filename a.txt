@@ -1,0 +1,1 @@
+    resources_used.mem = 871016kb
